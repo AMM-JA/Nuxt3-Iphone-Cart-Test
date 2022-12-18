@@ -1,1 +1,4 @@
-# Nuxt course 2022
+# Nuxt3 Iphone Cart 
+
+
+```npm run dev```
